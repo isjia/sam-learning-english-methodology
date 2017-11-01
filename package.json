@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/isjia/sam-learning-english-methodology/issues"
   },
-  "homepage": "https://github.com/isjia/sam-learning-english-methodology#readme"
+  "homepage": "https://github.com/isjia/sam-learning-english-methodology#readme",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
 }

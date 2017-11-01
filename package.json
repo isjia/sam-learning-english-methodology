@@ -1,0 +1,19 @@
+{
+  "name": "sam-learning-english-methodology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isjia/sam-learning-english-methodology.git"
+  },
+  "author": "isjia@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isjia/sam-learning-english-methodology/issues"
+  },
+  "homepage": "https://github.com/isjia/sam-learning-english-methodology#readme"
+}

@@ -9,7 +9,7 @@
     "build": "gitbook build ./note ./gh-pages",
     "deploy": "node ./scripts/deploy-gh-pages.js",
     "publish": "npm run build && npm run deploy",
-    "port": "lsof -i :35729"
+    "port": "lsof -i :35730"
   },
   "repository": {
     "type": "git",
